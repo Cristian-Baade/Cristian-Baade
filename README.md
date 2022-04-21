@@ -7,8 +7,9 @@ I'm a java development student and future programmer
 
 1. Draw
 
-1.Programing
+2. Programing
 
-1.listen to music
+3. Listen to music
 
-1.Play video game
+4. Play video game
+ 
