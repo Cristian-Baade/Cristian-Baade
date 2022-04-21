@@ -6,6 +6,9 @@ I'm a java development student and future programmer
 ### What I like to do the most is:
 
 1. Draw
+
 1.Programing
+
 1.listen to music
+
 1.Play video game
