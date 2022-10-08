@@ -1,4 +1,7 @@
-## Olá! Eu sou o Cristian Schauffert
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:666CDE&height=210&section=header&text=Olá!%20Eu%20sou%20Cristian%20Schauffert%20&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30">
+
+
+
  <div>
 <div align="center">
   <a href="https://github.com/Cristian-Baade">
